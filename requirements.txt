@@ -43,7 +43,7 @@ idna==3.3
 importlib-metadata==4.11.2
 imutils==0.5.4
 ipykernel==6.13.0
-ipython==8.2.0
+ipython==7.33.0
 ipython-genutils==0.2.0
 itsdangerous==2.0.1
 jedi==0.18.1
@@ -133,3 +133,4 @@ Werkzeug==2.0.1
 Whoosh==2.7.4
 wrapt==1.14.0
 zipp==3.7.0
+gunicorn
