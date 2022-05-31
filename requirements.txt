@@ -56,12 +56,6 @@ jupyterlab-pygments==0.2.2
 keras==2.8.0
 keras-nightly==2.10.0.dev2022050507
 Keras-Preprocessing==1.1.2
-Kivy==2.1.0
-kivy-deps.angle==0.3.2
-kivy-deps.glew==0.3.1
-kivy-deps.gstreamer==0.3.3
-kivy-deps.sdl2==0.4.5
-Kivy-Garden==0.1.5
 libclang==13.0.0
 Markdown==3.3.6
 MarkupSafe==2.0.1
